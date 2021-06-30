@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<TextureAtlas imagePath="final.png" width="512" height="1024">
+    <credits n="0" x="0" y="0" w="512" h="512"/>
+	<gameover>
+	<sprite n="true" x="0" y="512" w="512" h="128"/>
+    <sprite n="false" x="0" y="640" w="512" h="128"/>
+	</gameover>
+</TextureAtlas>

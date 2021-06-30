@@ -1,0 +1,23 @@
+/*
+ * @author Jan-Hendrik Kahle
+ */
+package com.me.tabletwars.enums;
+
+public enum BUTTONTYPE {
+	NORMAL,
+	MOUSEOVER,
+	SELECTED,
+	INACTIVE,
+	GREEN_NORMAL,
+	GREEN_MOUSEOVER,
+	GREEN_SELECTED,
+	GREEN_INACTIVE,
+	BLUE_NORMAL,
+	BLUE_MOUSEOVER,
+	BLUE_SELECTED,
+	BLUE_INACTIVE,
+	ZOOMIN,
+	ZOOMOUT,
+	ARROW,
+	ENDTURN
+	}

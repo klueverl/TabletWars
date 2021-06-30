@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!--
+	n for states
+	
+	idle = 0
+	defend = 1
+	shoot = 2
+	walk1 = 3
+	walk2 = 4
+
+-->
+
+<TextureAtlas imagePath="units.png" width="512" height="512">
+	<blue>
+		<flame n="1" x="0" y="0" w="64" h="64"/>
+		<flame n="0" x="64" y="0" w="64" h="64"/>
+		<flame n="2" x="128" y="0" w="64" h="64"/>
+		<flame n="3" x="192" y="0" w="64" h="64"/>
+		<flame n="4" x="256" y="0" w="64" h="64"/>
+		<soldier n="1" x="320" y="0" w="64" h="64"/>
+		<soldier n="0" x="384" y="0" w="64" h="64"/>
+		<soldier n="2" x="448" y="0" w="64" h="64"/>
+		<soldier n="3" x="0" y="64" w="64" h="64"/>
+		<soldier n="4" x="64" y="64" w="64" h="64"/>
+		<sniper n="1" x="128" y="64" w="64" h="64"/>
+		<sniper n="0" x="192" y="64" w="64" h="64"/>
+		<sniper n="2" x="256" y="64" w="64" h="64"/>
+		<sniper n="3" x="320" y="64" w="64" h="64"/>
+		<sniper n="4" x="384" y="64" w="64" h="64"/>
+	</blue>
+	<green>
+		<flame n="1" x="448" y="64" w="64" h="64"/>
+		<flame n="0" x="0" y="128" w="64" h="64"/>
+		<flame n="2" x="64" y="128" w="64" h="64"/>
+		<flame n="3" x="128" y="128" w="64" h="64"/>
+		<flame n="4" x="192" y="128" w="64" h="64"/>
+		<soldier n="1" x="256" y="128" w="64" h="64"/>
+		<soldier n="0" x="320" y="128" w="64" h="64"/>
+		<soldier n="2" x="384" y="128" w="64" h="64"/>
+		<soldier n="3" x="448" y="128" w="64" h="64"/>
+		<soldier n="4" x="0" y="192" w="64" h="64"/>
+		<sniper n="1" x="64" y="192" w="64" h="64"/>
+		<sniper n="0" x="128" y="192" w="64" h="64"/>
+		<sniper n="2" x="192" y="192" w="64" h="64"/>
+		<sniper n="3" x="256" y="192" w="64" h="64"/>
+		<sniper n="4" x="320" y="192" w="64" h="64"/>
+	</green>
+</TextureAtlas>

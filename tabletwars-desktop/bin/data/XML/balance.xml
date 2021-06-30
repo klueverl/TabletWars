@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Balancing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Units>
+    <Soldier damage="15" maxHealth="50" movRange="5" />
+    <Sniper damage="30" maxHealth="40" movRange="3" />
+    <Shotgun damage="15" maxHealth="50" movRange="5" />
+    <Flamethrower damage="15" maxHealth="60" movRange="3" />
+  </Units>
+</Balancing>

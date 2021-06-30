@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<TextureAtlas imagePath="borders.png" width="512" height="512">
+    <border n="0" x="0" y="0" w="256" h="256"/>
+    <border n="1" x="256" y="0" w="256" h="256"/>
+    <border n="2" x="0" y="256" w="256" h="256"/>
+    <border n="3" x="256" y="256" w="256" h="256"/> 
+</TextureAtlas>
